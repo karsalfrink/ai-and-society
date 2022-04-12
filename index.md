@@ -1,0 +1,1 @@
+Welcome to the online syllabus for master elective course ID5417 Artificial Intelligence and Society, which ran in Q3 of the 2021/2022 academic year at TU Delft faculty of Industrial Design Engineering.
