@@ -18,6 +18,11 @@ description: Syllabus for the TU Delft IDE master elective course ID5417 Artific
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karsalfrink.github.io/ai-and-society" # the base hostname & protocol for your site, e.g. http://example.com
 
+domain: karsalfrink.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://karsalfrink.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /ai-and-society      # place folder name if the site is served in a subfolder
+
+
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"
