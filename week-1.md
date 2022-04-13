@@ -27,4 +27,4 @@ parent: Course Roadmap
 2. Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2020). Datasheets for Datasets. *ArXiv:1803.09010 [Cs]*. <http://arxiv.org/abs/1803.09010>
 
 ### Activities:
-Collect street-level images for inspiration
+- Collect street-level images for inspiration
