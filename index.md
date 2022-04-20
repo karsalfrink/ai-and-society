@@ -1,4 +1,4 @@
-Welcome to the online syllabus for master elective course **ID5417 Artificial Intelligence and Society** (6 EC).
+Welcome to the syllabus for master elective course **ID5417 Artificial Intelligence and Society** (6 EC).
 {: .text-alpha }
 
 ### Credits
