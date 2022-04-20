@@ -38,3 +38,5 @@ We will discuss your canvases, in particular the questions and issues you genera
 ## Downloads
 
 - [Data ethics canvas](../../../downloads/data-ethics-canvas-lite-v2.pdf) (PDF)
+
+{% pdf "../../../downloads/data-ethics-canvas-lite-v2.pdf" no_link %}
