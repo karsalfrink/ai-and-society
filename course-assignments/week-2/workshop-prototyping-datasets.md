@@ -35,5 +35,3 @@ We will discuss the outcomes of the workshop in the plenary after the workshop.
 ## Downloads
 
 - [Datasheet lite](../../../downloads/datasheet-lite-v3.pdf) (PDF)
-
-{% pdf "../../../downloads/datasheet-lite-v3.pdf" no_link %}

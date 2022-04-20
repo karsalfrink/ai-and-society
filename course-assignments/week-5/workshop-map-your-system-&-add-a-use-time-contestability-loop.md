@@ -44,11 +44,5 @@ We will discuss your findings from this workshop in the plenary discussion later
 
 ## Downloads
 
-{% pdf "../../../downloads/contestable-service-blueprint-v2.pdf" no_link %}
-
 - [Contestable service blueprint](../../../downloads/contestable-service-blueprint-v2.pdf) (PDF)
-
-{% pdf "../../../downloads/contestable-service-blueprint-example-v2.pdf" no_link %}
-
 - [Contestable service blueprint example](../../../downloads/contestable-service-blueprint-example-v2.pdf) (PDF)
-

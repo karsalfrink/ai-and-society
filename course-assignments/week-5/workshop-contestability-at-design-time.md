@@ -49,6 +49,4 @@ We will discuss your findings and experiences with this workshop in the plenary 
 
 ## Downloads
 
-{% pdf "../../../downloads/contestable-ml-pipeline-v2.pdf" no_link %}
-
 - [Contestable ML pipeline](../../../downloads/contestable-ml-pipeline-v2.pdf) (PDF)

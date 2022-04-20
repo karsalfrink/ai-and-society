@@ -42,5 +42,3 @@ One of these visions will be the basis for your continued design work towards th
 ## Downloads
 
 - [Product vision canvas](../../../downloads/product-vision-canvas-v2.pdf) (PDF)
-
-{% pdf "../../../downloads/product-vision-canvas-v2.pdf" no_link %}

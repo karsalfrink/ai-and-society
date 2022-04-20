@@ -33,5 +33,3 @@ We will use the questions and issues you have identified by doing this exercise 
 ## Downloads
 
 - [Model card lite](../../../downloads/model-card-lite-v2.pdf) (PDF)
-
-{% pdf "../../../downloads/model-card-lite-v2.pdf" no_link %}
