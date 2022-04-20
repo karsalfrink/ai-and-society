@@ -2,7 +2,7 @@
 grand_parent: Course Assignments
 parent: Week 5
 nav_order: 1
-title: "Mapping a Use-Time Contestability Loop"
+title: "Workshop: Map a Use-Time Contestability Loop"
 ---
 
 # Workshop: Map Your System & Add a Use-Time Contestability Loop
