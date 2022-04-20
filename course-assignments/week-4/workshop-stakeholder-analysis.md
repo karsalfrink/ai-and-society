@@ -16,7 +16,7 @@ After the workshop, you will be able to identify more non-obvious stakeholders a
 
 ## Instructions
 
-1.  The canvas for this exercise is also available as a template in Miro (open your Group board -> Templates -> Shared -> Stakeholder Analysis), or use the image attached to this page 
+1.  The canvas for this exercise is attached to this page 
 2.  List Core / Direct / Indirect stakeholders
     -   Try to generate as many ideas about stakeholders as possible
         -   Use the materials you have collected and read a during previous week
