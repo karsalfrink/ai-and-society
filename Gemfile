@@ -8,6 +8,8 @@ gem "github-pages", "~> 225", group: :jekyll_plugins
 gem "webrick", "~> 1.7"
 # gem "just-the-docs"
 
-group :jekyll_plugins do
-  gem "jekyll-pdf-embed"
-end
+# group :jekyll_plugins do
+#   gem "jekyll-pdf-embed"
+# end
+
+gem "jekyll-pdf-embed", group: :jekyll_plugins
