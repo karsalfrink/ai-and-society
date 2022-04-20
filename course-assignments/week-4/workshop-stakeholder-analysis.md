@@ -50,3 +50,8 @@ Stakeholder analysis conducted in Miro canvas. 
 ## Follow-up
 
 After a workshop we will discuss your findings in the plenary session later in the day.
+
+## Downloads
+
+- [Stakeholder map](../../../downloads/stakeholder-map-v2.pdf) (PDF)
+- [Harms and benefits](../../../downloads/benefits-harms-v2.pdf) (PDF)
