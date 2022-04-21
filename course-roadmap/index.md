@@ -6,6 +6,11 @@ has_toc: false
 
 # Course Roadmap
 
+---
+
+Table of contents
+{: .text-delta }
+
 - [Week 0](./week-0): Preparations
 - [Week 1](./week-1): Strategic design and the city
 - [Week 2](./week-2): Machine learning and datasets
@@ -14,3 +19,4 @@ has_toc: false
 - [Week 5](./week-5): Contestable AI by design
 - [Week 6](./week-6): Design studio
 - [Week 7](./week-7): Presentations
+- [Final assignments](./final-assignments)
