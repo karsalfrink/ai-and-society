@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AI &amp; Society 
+title: AI & Society 
 description: Syllabus for the TU Delft IDE master elective course ID5417 Artificial Intelligence and Society
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karsalfrink.github.io/ai-and-society" # the base hostname & protocol for your site, e.g. http://example.com
